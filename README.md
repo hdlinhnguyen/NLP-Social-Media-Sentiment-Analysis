@@ -10,5 +10,5 @@ Sentiment prediction involves understanding of people feelings about a product o
 Scikit-learn, matplotlib, seaborn
 
 ## Data:
-input: tweets on X or Twitter (text data)
+input: tweets on X or Twitter (text data) <br>
 output: sentiment (0 - negative or 1 - positive)
