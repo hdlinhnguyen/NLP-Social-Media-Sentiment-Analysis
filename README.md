@@ -2,6 +2,8 @@
 AI or ML sentiment analysis tools empower companies to predict whether their customers' sentiments (ie, whether they are happy or not). 
 The process should be done without having humans manually review thousands of reviews or status. 
 
+![](images/worldcloud.png)
+
 ## Objective:
 Build, train, test and deploy an AI model to predict sentiment from thousands of social media status on X (or Twitter). 
 Sentiment prediction involves understanding of people feelings about a product or service. 
