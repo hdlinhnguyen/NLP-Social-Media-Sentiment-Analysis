@@ -14,3 +14,5 @@ Scikit-learn, matplotlib, seaborn
 ## Data:
 input: tweets on X or Twitter (text data) <br>
 output: sentiment (0 - negative or 1 - positive)
+
+![](images/worldcloud1.png)
