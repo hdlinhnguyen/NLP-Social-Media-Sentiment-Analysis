@@ -1,4 +1,4 @@
-# NLP Social Media Sentiment Analysis
+#💡NLP Project: Social Media Sentiment Analysis💬
 AI or ML sentiment analysis tools empower companies to predict whether their customers are happy or not. 
 The process should be done without having humans manually review thousands of reviews or status. 
 
